@@ -83,7 +83,7 @@
         "v-tooltip": "^2.0.0-rc.32",
         "video.js": "^7.0.3",
         "vue": "^2.5.17",
-        "vue-d3-network": "^0.1.26",
+        "vue-d3-network": "^0.1.28",
         "vue-quill-editor": "^3.0.6",
         "vue-router": "^3.0.1",
         "vue-video-player": "^5.0.2",
